@@ -4,7 +4,7 @@
 
 Clean tracking parameters from a batch of links. Preview every removal, with signed URLs left intact.
 
-[Open the app](https://utokyo2026.github.io/linktidy/) · [Download offline HTML](https://github.com/UTokyo2026/linktidy/releases/latest) · [简体中文](README.zh-CN.md)
+[Open the app](https://sq2100.com/linktidy/) · [Download offline HTML](https://github.com/sq2100/linktidy/releases/latest) · [简体中文](README.zh-CN.md)
 
 ![LinkTidy example](docs/demo.png)
 
@@ -20,7 +20,7 @@ No uploads, account, API key, tracking scripts, or runtime CDN dependencies. The
 
 ## Quick start
 
-Open the [hosted app](https://utokyo2026.github.io/linktidy/) and click **Try an example**. Or download the HTML from [Releases](https://github.com/UTokyo2026/linktidy/releases/latest), then open it in a modern desktop browser.
+Open the [hosted app](https://sq2100.com/linktidy/) and click **Try an example**. Or download the HTML from [Releases](https://github.com/sq2100/linktidy/releases/latest), then open it in a modern desktop browser.
 
 To build from source (Node.js 20.19+):
 

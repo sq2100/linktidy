@@ -2,7 +2,7 @@
 
 批量清理链接追踪参数，逐条预览，保留带签名的链接。
 
-[在线使用](https://utokyo2026.github.io/linktidy/) · [下载离线网页](https://github.com/UTokyo2026/linktidy/releases/latest) · [完整英文说明](README.md)
+[在线使用](https://sq2100.com/linktidy/) · [下载离线网页](https://github.com/sq2100/linktidy/releases/latest) · [完整英文说明](README.md)
 
 ![演示界面](docs/demo.png)
 
